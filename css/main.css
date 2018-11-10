@@ -462,6 +462,10 @@
 	border:1px solid #33373d;
 }
 
+.skill.sfware .progress {
+  border:1px solid #1F2664;
+}
+
 
 .progress .percentage {
 	border-radius: 50px 0 0 50px;
@@ -487,6 +491,10 @@
 
 .skill.prs .progress .percentage {
 	background-color: #33373d;
+}
+
+.skill.sfware .progress .percentage {
+  background-color: #1F2664;
 }
 
 
